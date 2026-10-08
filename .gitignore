@@ -8,3 +8,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Build artifacts (hosted via GitHub Releases)
+*.apk

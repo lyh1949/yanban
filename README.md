@@ -27,7 +27,7 @@
 
 ## 更新下载链接（重要）
 
-APK 下载地址目前是**待定**状态，二维码指向占位地址 `https://example.com/yanban.apk`。拿到真实地址后，按以下两步更新：
+APK 下载地址目前指向 GitHub Releases：`https://github.com/lyh1949/yanban/releases/latest/download/app-release.apk`（安装包通过 GitHub Releases 发布，不放进仓库）。若更换地址，按以下两步更新：
 
 1. **重新生成二维码**：
    ```bash

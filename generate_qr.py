@@ -15,7 +15,7 @@ import sys
 import qrcode
 
 # 默认占位链接（待定），也可通过命令行参数传入真实地址
-DEFAULT_URL = "https://example.com/yanban.apk"
+DEFAULT_URL = "https://github.com/lyh1949/yanban/releases/latest/download/app-release.apk"
 
 
 def main():
